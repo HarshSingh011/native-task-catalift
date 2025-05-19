@@ -2,9 +2,8 @@ package com.example.catalift.presentation.screens.home
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.catalift.domain.model.Post
 import com.example.catalift.domain.usecase.GetPostsUseCase
-import com.example.catalift.domain.usecase.StarPostUseCase
+import com.example.catalifte.domain.model.Post
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

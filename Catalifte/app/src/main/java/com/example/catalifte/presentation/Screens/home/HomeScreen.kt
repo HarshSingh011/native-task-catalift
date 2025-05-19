@@ -20,10 +20,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
-import com.example.catalift.presentation.components.AppBar
 import com.example.catalift.presentation.components.BottomNavigation
 import com.example.catalift.presentation.components.PostItem
 import com.example.catalift.presentation.components.SearchBar
+import com.example.catalifte.presentation.components.AppBar
 
 @Composable
 fun HomeScreen(
